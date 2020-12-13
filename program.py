@@ -1,6 +1,6 @@
 def main():
     print('My first git program')
-    print('New day — new print')
+    print('Meow')
 
 
 if __name__ == '__main__':
